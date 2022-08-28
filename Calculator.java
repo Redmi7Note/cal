@@ -15,7 +15,7 @@ public class Calculator
         {
             System.out.println("Enter 1 for multiplication");
             System.out.println("Enter 2 for division");
-            System.out.println("Enter 3 to Exit");
+            System.out.println("Enter 4 to Exit");
             opt = s.nextInt();
             switch(opt)
             {
